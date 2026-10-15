@@ -1,10 +1,10 @@
-streamlit
-ultralytics=="8.3.63"
-pillow
-numpy
-pandas
-plotly
-opencv-python-headless
+ultralytics==8.3.63
+streamlit==1.54.0
+pandas==2.3.3
+plotly==6.6.0
+pillow==10.4.0
+numpy==1.26.4
+opencv-python-headless==4.11.0.86
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
+torch==2.2.2
+torchvision==0.17.2
