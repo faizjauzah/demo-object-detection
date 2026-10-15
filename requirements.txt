@@ -1,4 +1,4 @@
-ultralytics>=8.3.78
+git+https://github.com/sunsmarterjie/yolov12.git
 streamlit==1.54.0
 pandas==2.3.3
 plotly==6.6.0
