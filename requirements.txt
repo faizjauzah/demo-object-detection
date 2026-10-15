@@ -5,6 +5,16 @@ plotly==6.6.0
 pillow==10.4.0
 numpy==1.26.4
 opencv-python-headless==4.11.0.86
+huggingface_hub
+safetensors
+timm
+psutil
+py-cpuinfo
+scipy
+pyyaml
+matplotlib
+tqdm
+requests
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.2.2
 torchvision==0.17.2
